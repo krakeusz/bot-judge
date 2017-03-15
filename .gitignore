@@ -1,0 +1,5 @@
+logs/
+judgetest
+build/
+*.o
+Makefile.dep
